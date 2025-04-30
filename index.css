@@ -39,7 +39,7 @@ nav a {
 
 /* Hero */
 .hero {
-    background-image: url("../html/RFC7WHJKX5F6DFAYJRQBQP573M.jpeg");
+    background-image: url("../Html/fondo.jpg");
     background-size: cover;
     background-position: center;
     padding: 5rem 2rem;
@@ -91,4 +91,8 @@ footer {
     text-align: center;
     padding: 1rem;
     margin-top: 2rem;
+}
+img {
+    width: 300px;   /* Ancho de la imagen */
+    height: 200px;  /* Alto de la imagen */
 }
