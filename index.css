@@ -39,7 +39,7 @@ nav a {
 
 /* Hero */
 .hero {
-    background-image: url("../Html/fondo.jpg");
+    background-image: url("img/fondo.jpg");
     background-size: cover;
     background-position: center;
     padding: 5rem 2rem;
